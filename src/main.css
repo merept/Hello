@@ -1,0 +1,36 @@
+body {
+    margin-top: 50px;
+    text-indent: 50px;
+    color: white;
+    text-align: justify;
+    font-family: "JetBrains Mono ExtraBold",monospace;
+}
+h1 {
+    font-family: "Microsoft YaHei UI",sans-serif;
+    font-weight: bold;
+}
+.days a{
+    color: white;
+    text-decoration: none;
+}
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    min-width: 100px;
+    z-index: -10;
+    zoom: 1;
+    background-color: #fff;
+    background-image: url(https://pic.imgdb.cn/item/60c5b6ef844ef46bb29598dd.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-position: center 0;
+}
+.myLogo img{
+    width: 61px;
+    height: 69px;
+}
