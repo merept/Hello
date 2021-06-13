@@ -3,7 +3,7 @@ body {
     text-indent: 50px;
     color: white;
     text-align: justify;
-    font-family: "JetBrains Mono ExtraBold",monospace;
+    font-family: "Consolas",monospace;
 }
 h1 {
     font-family: "Microsoft YaHei UI",sans-serif;
