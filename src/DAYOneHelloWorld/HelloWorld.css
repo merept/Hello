@@ -20,7 +20,7 @@ div.background {
     z-index: -10;
     zoom: 1;
     background-color: #fff;
-    background-image: url(https://pic.imgdb.cn/item/60c5b6ef844ef46bb29598dd.jpg) ;
+    background-image: url("../../img/PPMJ3166.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
